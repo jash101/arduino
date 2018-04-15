@@ -1,3 +1,7 @@
+/*
+Author: Jash Mota
+robotic arm manual control with three joints and without the end effector
+*/
 #include <Servo.h>
 
 Servo joint1, joint2, joint3;  // create servo object to control a servo
